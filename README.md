@@ -1,2 +1,0 @@
-# Joplin
-Joplin Test
